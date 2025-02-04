@@ -1,5 +1,5 @@
 # Blockchain-Explorer
-
+git clone https://github.com/your-repo-name.git  
 📌 Description:
 
 A lightweight blockchain explorer for monitoring transactions and addresses.
@@ -18,6 +18,7 @@ A lightweight blockchain explorer for monitoring transactions and addresses.
  ├── database/      # Indexed blockchain data
  ├── README.md      # Setup guide
  ├── config.json    # API settings
+
  
 🚀 How to Run:
 
